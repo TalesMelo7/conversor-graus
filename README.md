@@ -13,9 +13,9 @@ Aplicativo simples e visual para conversão de graus Celsius para Fahrenheit ou 
 ## 🚀 Funcionalidades
 
 * Conversão de Celsius para Fahrenheit ou Kelvin;
-* Layout responsivo com animações sutis;
+* Layout responsivo com animações;
 * Estilo visual moderno com gradientes e imagens de fundo;
-* Validação de entrada com mensagem de erro amigável.
+* Validação de entrada com mensagem de erro.
 
 ## 🧪 Tecnologias Utilizadas
 
@@ -26,8 +26,7 @@ Aplicativo simples e visual para conversão de graus Celsius para Fahrenheit ou 
 ## 🖼️ Layout
 
 * Interface dividida entre entrada de dados e imagem ilustrativa;
-* Fonte personalizada com Chakra Petch e Inter via Google Fonts;
-* Responsivo para telas menores com media queries.
+* Fonte personalizada com Chakra Petch e Inter;
 
 ## 📂 Estrutura de Arquivos
 
