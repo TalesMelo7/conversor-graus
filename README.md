@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://postimg.cc/9D4DpZr4">
+    <img src="https://i.postimg.cc/0yn79CvC/graus.jpg" />
+  </a>
+</p>
+
+___
+
 # 🌡️ Conversor de Graus
 
 Aplicativo simples e visual para conversão de graus Celsius para Fahrenheit ou Kelvin. Desenvolvido com HTML, CSS e JavaScript puro.
